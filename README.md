@@ -1,4 +1,4 @@
-# Salut, je suis Nox57 👋
+# Salut, je suis Nox 👋
 
 Je suis un jeune papa de 31 ans passionné par l'informatique et les nouvelles technologies depuis mon enfance. 
 Mon aventure dans le domaine de la programmation a débuté avec PHP, et récemment, j'ai enrichi mes compétences en JavaScript et React après une formation intensive de 14 mois qui s'est achevée en 2023.
