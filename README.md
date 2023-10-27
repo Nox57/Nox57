@@ -5,9 +5,10 @@ Mon aventure dans le domaine de la programmation a débuté avec PHP, et récemm
 
 ## 🛠️ Technologies
 
-- **Langages:** PHP, JavaScript, HTML5, CSS3
-- **Frameworks:** React
-- **Librairies:** Redux, Sass, Jest
+- **Langages:** JavaScript, HTML5, CSS3, PHP, SQL
+- **Frameworks:** React, Express.js
+- **Librairies:** Redux, Sass, Jest, React Router DOM, Socket.io, Phaser 3
+- **Bases de données:** MySQL, PostgreSQL, MongoDB
 - **Environnement de Développement:** Visual Studio Code
 - **Bureautique:** Microsoft Office Suite, Google Workspace
 
