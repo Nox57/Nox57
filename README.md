@@ -1,56 +1,47 @@
-# Salut, je suis Nox 👋
+# Salut, je suis Yannick (Nox) 👋
 
-Je suis un jeune papa de 32 ans passionné par l'informatique et les nouvelles technologies depuis mon enfance. 
-Mon aventure dans le domaine de la programmation a débuté avec PHP, et récemment, j'ai enrichi mes compétences en JavaScript et React après une formation intensive de 14 mois qui s'est achevée en 2023.
+Pilote d'exploitation IT sur une production critique à l'échelle nationale, pour un grand compte du secteur assurance/mutuelle : supervision, gestion des incidents et mises en production, en horaires postés et en astreinte.
 
-## 🛠️ Technologies
+Ancien développeur web, je m'en sers au quotidien pour analyser les incidents (logs, API, bases de données) et outiller mon équipe. Objectif : l'exploitation N2 et l'ingénierie de production.
 
-- **Langages:** JavaScript, HTML5, CSS3, PHP, SQL
-- **Frameworks:** React, Express.js
-- **Librairies:** Redux, Sass, Jest, React Router DOM, Socket.io, Phaser 3
-- **Bases de données:** MySQL, PostgreSQL, MongoDB
-- **Environnement de Développement:** Visual Studio Code
-- **Bureautique:** Microsoft Office Suite, Google Workspace
+## 🛠️ Compétences
 
-## 🌱 En cours d'apprentissage
+- **Supervision & ordonnancement :** Dynatrace, Grafana, Zabbix, Centreon, Spectrum, APM Micro Focus, Automator, Vega
+- **ITSM :** EasyVista, Jira, ServiceNow
+- **MEP & automatisation :** Deploy, Rundeck, GitHub Actions, Power Automate
+- **Systèmes & cloud :** Linux (Ubuntu), nginx, systemd, AWS, GCP
+- **Dev & data :** JavaScript / TypeScript, Node.js, React, PHP, SQL
 
-- Perfectionnement en React
-- Exploration du développement mobile avec React Native
-- Découverte du Backend avec Node.js
+## 🌱 En ce moment
 
-## 🚀 Projets Récents
+- **Infrastructure auto-hébergée :** deux VPS Ubuntu (dev et prod), durcis (SSH, UFW, fail2ban), nginx, systemd, CI GitHub Actions, déploiement scripté, sauvegardes et supervision. Plus de 750 commits en 2026 sur des dépôts privés.
+- **Prochaine étape :** certification ITIL v4 Foundation.
 
-- **[HRnet](https://github.com/Nox57/P14_HRnet_PAREL_Yannick)**: Une application conçue pour la gestion efficace des fiches employés.
-- **[@nox57/simple-modal](https://github.com/Nox57/simple-modal-yp)**: Un composant modal simple pour React 18, conçu pour être facile à intégrer et à utiliser dans vos projets.
-- **[Kasa](https://github.com/Nox57/P11_Kasa_PAREL_Yannick)**: Une application web de location de logements.
+## 🚀 Projets publics (formation OpenClassrooms)
 
-## 👨‍💻 Parcours Professionnel
+- **[HRnet](https://github.com/Nox57/P14_HRnet_PAREL_Yannick)** : application de gestion des fiches employés (React, Redux).
+- **[@nox57/simple-modal](https://github.com/Nox57/simple-modal-yp)** : composant modal simple pour React 18, publié sur npm.
+- **[Kasa](https://github.com/Nox57/P11_Kasa_PAREL_Yannick)** : application web de location de logements (React).
 
-- **Papa à plein temps** - Chez Moi (2022 - Indéterminé)
-  - Le poste le plus exigeant et gratifiant de ma vie. Chaque jour est une nouvelle aventure avec des responsabilités croissantes, des horaires imprévisibles et une variété de tâches allant du changement de couches à la gestion des crises de milieu de nuit.
+## 👨‍💻 Parcours
 
-- **Technicien Bureautique** - LBI Systems (2018 - 2021)
-  - Déploiement, support et maintenance de solutions informatiques, audiovisuelles et éducatives auprès d’entreprises et établissements scolaires (Région Grand-Est).
+- **Pilote d'exploitation** · Objectware (depuis 2025)
+  Production IT critique d'un grand compte assurance/mutuelle : supervision, incidents P1, changements, MEP en préproduction puis en production, référent de l'outillage de l'équipe.
+- **Technicien Helpdesk N1/N2** · Objectware (2025)
+- **Parentalité et reconversion** (2021 - 2025)
+  Titre Développeur Concepteur Logiciel, RNCP niveau 6 (OpenClassrooms, 2023). Et le poste le plus exigeant de ma vie : papa, avec des astreintes de nuit bien avant l'exploitation.
+- **Technicien IT & audiovisuel** · LBI Systems (2018 - 2021)
+  Déploiement, support et maintenance chez des entreprises et des établissements scolaires du Grand Est.
+- **Technicien IT** · Orange Store (2016 - 2017)
+  Migration de 230 boutiques Orange vers Windows 10, support N2, recette du système d'encaissement.
+- **Développeur fullstack junior (alternance)** · MGEN Technologies (2013 - 2015)
+  Outil de supervision des flux bancaires en PHP, contrôle quotidien des outils en production.
 
-- **Technicien Informatique** - Générale de Téléphone (2016 - 2017)
-  - Participation à la migration vers Windows 10 de 230 boutiques Orange, facilitant ainsi la transition pour les utilisateurs finaux.
-  - Contribution clé à la migration du système d'encaissement et à la modernisation de l'infrastructure de paiement de l'entreprise.
-  - Recette interne sur système d’encaissement & dématérialisation de contrats, support informatique de niveau 2, aide à l’utilisateur, et rédaction de procédures et documentations.
+## 📫 Contact
 
-- **Développeur d'Applications** - MGEN Technologies (2013 - 2015)
-  - Conception d’une application PHP modulable pour la supervision des flux bancaires.
-  - Évolutions des applications web selon les besoins, et rédaction de cahiers des charges et documentations.
-
-## 🤝 Ouvert à de nouvelles opportunités
-
-Actuellement en quête de nouvelles opportunités professionnelles pour mettre en pratique mes compétences en développement web et continuer à apprendre. J'aime les défis et suis toujours prêt à apprendre. N'hésitez pas à me contacter !
-
-## 📫 Comment me contacter
-
-- **Email:** yannickparel.dev@gmail.com
+- **Email :** yannickparel.dev@gmail.com
+- **LinkedIn :** [linkedin.com/in/yannickparel](https://www.linkedin.com/in/yannickparel/)
 
 ## 📊 Statistiques GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nox57&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default_repocard)
-
-Merci de visiter mon profil GitHub, et n'hésitez pas à explorer mes [projets](https://github.com/Nox57?tab=repositories) ! 🙏
